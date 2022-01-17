@@ -1,1 +1,11 @@
+------
+# This Plugin add all Structures to youre Minecraft Bedrock Server for Pocketmine-MP 4.
+# Dieses Plugin fügt alle Strukturen zu deinem Minecraft Bedrock Server für Pocketmine-MP 4 hinzu
+
+name: StructurePopulator
+version: 1.0.0
+description: Add Structures to youre Pocketmine Server
+author: PocketMiner92
+api: 4.0.0
+main: PocketMiner92\StructurePopulator\StructurePopulator
 
