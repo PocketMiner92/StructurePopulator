@@ -3,7 +3,6 @@ build-by-default: true
 branches:
 - main
 projects:
-+ Height:
-+   Path: ""
-
+  Height:
+    Path: ""
 ...
